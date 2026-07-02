@@ -1,0 +1,10 @@
+pollutant_id,full_name,regulatory_limit,health_effect
+pm2_5,Particulate Matter (Fine Particles),50,"lung inflammation, systemic inflammatory changes"
+pm10,Particulate Matter (Inhalable Coarse Particles),150,"lung inflammation, inflammatory changes"
+no2,Nitrogen Dioxide,150,"Nose and throat irritation, bronchoconstriction, dyspnoea, increased susceptibility to respiratory infections, Emphysema-like lesions"
+o3,Ozone,140,"lung inflammation, reduce lung function, increased risk of asthma development, worsens airflow in asthmatic patients to a greater extent"
+so2,Sulfur Dioxide,180,"Nose and throat irritation, bronchoconstriction, dyspnoea"
+co,Carbon Monoxide,35,"reduced blood oxygen transfer resulting in impaired concentration, slow reflexes, and confusion"
+,,,
+*refer to DENR Administrative Order No. 2000 - 81 Series of 2000 for the units and averaging time of each pollutant,,,
+*pm2_5 is based on DENR Administrative Order No. 2013–13,,,
